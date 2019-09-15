@@ -2,20 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3026584e-9578-41a0-b98e-09abc0352c63" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/UI/UX/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI/UX/img/124D7031-CD65-480A-B4E2-C0AE320FBA36.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI/UX/img/1998F215-DEF4-40EE-A509-735B3CAAD07D.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI/UX/img/2DC3E78C-5C54-4980-A5BE-D9F8289533B4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI/UX/img/375C971C-4ACC-493A-9F38-5D956229C819.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI/UX/img/5FB32D8E-379E-4E88-825B-EA1FE45C3830.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI/UX/img/883A066B-76E0-4F7C-BE58-FFBFF94BBC39.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI/UX/img/92EB5F47-D442-4D81-9A8D-7542A5B2AF5F.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI/UX/img/A5F69CB6-DB6C-4ACE-B221-8AE2C2AB15AC.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI/UX/img/AEBD9573-7B00-4B09-90EB-844C0A14EF5B.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UI/UX/img/E462DAAE-3C0B-4161-827A-EB3ACF143B53.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UI/UI灵感:设计师交流/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/UI灵感:设计师交流/0C46C55D-55BF-4215-A8E8-0216E2DC3D72.png" beforeDir="false" afterPath="$PROJECT_DIR$/UI/UI灵感:设计师交流/img/0C46C55D-55BF-4215-A8E8-0216E2DC3D72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/UI灵感:设计师交流/755FC370-39BB-4BCE-9C5E-BC7FE45528AC.png" beforeDir="false" afterPath="$PROJECT_DIR$/UI/UI灵感:设计师交流/img/755FC370-39BB-4BCE-9C5E-BC7FE45528AC.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/UI灵感:设计师交流/7837C838-4682-48BB-944B-253E924F7738.png" beforeDir="false" afterPath="$PROJECT_DIR$/UI/UI灵感:设计师交流/img/7837C838-4682-48BB-944B-253E924F7738.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/UI灵感:设计师交流/7ECF1657-129B-4E9E-ADA5-0172B85393C2.png" beforeDir="false" afterPath="$PROJECT_DIR$/UI/UI灵感:设计师交流/img/7ECF1657-129B-4E9E-ADA5-0172B85393C2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/UI灵感:设计师交流/DFD9306C-1AB0-4626-8BDF-8FA4465D5D5C.png" beforeDir="false" afterPath="$PROJECT_DIR$/UI/UI灵感:设计师交流/img/DFD9306C-1AB0-4626-8BDF-8FA4465D5D5C.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/img/124D7031-CD65-480A-B4E2-C0AE320FBA36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/img/1998F215-DEF4-40EE-A509-735B3CAAD07D.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/img/2DC3E78C-5C54-4980-A5BE-D9F8289533B4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/img/375C971C-4ACC-493A-9F38-5D956229C819.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/img/5FB32D8E-379E-4E88-825B-EA1FE45C3830.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/img/883A066B-76E0-4F7C-BE58-FFBFF94BBC39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/img/92EB5F47-D442-4D81-9A8D-7542A5B2AF5F.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/img/A5F69CB6-DB6C-4ACE-B221-8AE2C2AB15AC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/img/AEBD9573-7B00-4B09-90EB-844C0A14EF5B.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/UX/img/E462DAAE-3C0B-4161-827A-EB3ACF143B53.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +28,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UI/UI灵感:设计师交流/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="357">
+                <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -41,18 +58,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/UI/UX/README.md" />
         <option value="$USER_HOME$/Desktop/优质图片网站资源.md" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-        <option value="$PROJECT_DIR$/.idea/GoodGoodStudy.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/UI/UX/README.md" />
+        <option value="$PROJECT_DIR$/UI/UI灵感:设计师交流/README.md" />
       </list>
     </option>
   </component>
@@ -83,14 +91,7 @@
               <item name="GoodGoodStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="GoodGoodStudy" type="462c0819:PsiDirectoryNode" />
               <item name="UI" type="462c0819:PsiDirectoryNode" />
-              <item name="UX" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GoodGoodStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GoodGoodStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="UI" type="462c0819:PsiDirectoryNode" />
-              <item name="UX" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="UI灵感:设计师交流" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -131,38 +132,17 @@
       <option name="presentableId" value="Default" />
       <updated>1568272267900</updated>
       <workItem from="1568272271732" duration="1710000" />
+      <workItem from="1568525254333" duration="325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1710000" />
+    <option name="totallyTimeSpent" value="2035000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="806" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="808" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" weight="0.24964234" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Python Console" order="4" />
-      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="6" />
-      <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="12" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
-      <window_info anchor="right" id="SciView" order="2" />
-      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-    </layout>
-    <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
@@ -184,7 +164,7 @@
       <window_info anchor="right" id="SciView" order="2" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-    </layout-to-restore>
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -200,21 +180,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UI/UX/README.md">
+    <entry file="file://$USER_HOME$/Desktop/优质图片网站资源.md" />
+    <entry file="file://$PROJECT_DIR$/UI/UI灵感:设计师交流/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="314">
-            <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/优质图片网站资源.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <first_editor relative-caret-position="357">
+            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           </first_editor>
           <second_editor />
         </state>
